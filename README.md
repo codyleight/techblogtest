@@ -1,2 +1,2 @@
-# techblogtest
-techblog test.
+# TechBlogger
+A blog website for technology!
